@@ -1,0 +1,32 @@
+.navbar {
+    margin-bottom: 0px;
+    border-radius: 0px;
+}
+
+
+/* contact */
+.contact{
+    font-size: 2.5em;
+    color: #454445;
+    margin: 0 0 0.8em 0;
+    line-height: 1.5em;
+    text-transform: capitalize;
+    font-family: inherit;
+}
+
+/* footer part */
+.footer {
+    padding: 10px;
+    background-color: #454545;
+    color: white;
+    text-align: center;
+ }  
+
+.carousel-caption{
+    bottom:0px;
+    top:45%;
+    font-size: 50%;
+}
+
+ /* Signup page */
+ 

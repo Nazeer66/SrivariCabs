@@ -1,0 +1,48 @@
+{
+	"data": [{
+			"img": "images/Yercaud.jpg",
+			"text": "Yercaud",
+			"myroute":"yercaud"
+		},
+		{
+			"img": "images/pykara.jpg",
+			"text": "Ooty",
+			"myroute":"ooty"
+		},
+		{
+			"img": "images/hogenakkal.jpg",
+			"text": "Hogenakkal",
+			"myroute":"hogenakkal"
+		},
+		{
+			"img": "images/kodaikanal.jpg",
+			"text": "Kodaikanal",
+			"myroute":"kodaikanal"
+		},
+		{
+			"img": "images/valparai.jpg",
+			"text": "Valparai",
+			"myroute":"valparai"
+		},
+		{
+			"img": "images/tanjore.jpg",
+			"text": "Tanjore",
+			"myroute":"tanjore"
+		},
+		{
+			"img": "images/vivekananda.jpg",
+			"text": "Kanniyakumari",
+			"myroute":"kanniyakumari"
+		},
+		{
+			"img": "images/Rameshwaram.jpg",
+			"text": "Rameshwaram",
+			"myroute":"rameshwaram"
+		},
+		{
+			"img": "images/Yelagiri.jpg",
+			"text": "Yelagiri",
+			"myroute":"yelagiri"
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"data": [{
+			"img": "images/kerala.jpg",
+			"text": "Kerala"
+		},
+		{
+			"img": "images/karnataka.png",
+			"text": "Karnataka"
+		},
+		{
+			"img": "images/Puducherry.jpg",
+			"text": "Puducherry"
+		},
+		{
+			"img": "images/andhra.jpg",
+			"text": "Andhra Pradesh"
+		},
+		{
+			"img": "images/goa.jpg",
+			"text": "Goa"
+		},
+		{
+			"img": "images/tanjore.jpg",
+			"text": "Tanjore"
+		},
+		{
+			"img": "images/vivekananda.jpg",
+			"text": "Kanniyakumari"
+		},
+		{
+			"img": "images/Rameshwaram.jpg",
+			"text": "Rameshwaram"
+		},
+		{
+			"img": "images/Yelagiri.jpg",
+			"text": "Yelagiri"
+		}
+	]
+}

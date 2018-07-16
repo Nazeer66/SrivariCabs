@@ -8,7 +8,7 @@ app.controller("myCtrl", function($scope, $http){
         console.log("India", response.data.data);
     }
 
-    
+
     
 
 })

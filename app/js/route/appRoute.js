@@ -32,7 +32,7 @@ app.config(function($routeProvider){
     })
     .when("/yercaud",{
         templateUrl:"views/innerView/yercaud.html",
-        controller:"myCtrl"
+        controller:"yerCtrl"
     })
     .when("/valparai",{
         templateUrl:"views/innerView/valparai.html",

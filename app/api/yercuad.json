@@ -1,0 +1,27 @@
+{
+	"data": [{
+			"img": "images/yercaud/killiyur.jpg",
+			"text": "Killiyur Falls"
+		},
+		{
+			"img": "images/yercaud/garden.jpg",
+			"text": "Botanical Garden"
+		},
+		{
+			"img": "images/yercaud/deerpark.jpg",
+			"text": "Deer Park"
+		},
+		{
+			"img": "images/yercaud/shevory.jpg",
+			"text": "Shevaory Falls"
+		},
+		{
+			"img": "images/yercaud/park.jpg",
+			"text": "Anna Park"
+		},
+		{
+			"img": "images/yercaud/boathouse.jpg",
+			"text": "Boat House"
+		}
+	]
+}

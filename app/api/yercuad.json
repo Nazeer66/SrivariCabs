@@ -1,27 +1,34 @@
 {
 	"data": [{
 			"img": "images/yercaud/killiyur.jpg",
-			"text": "Killiyur Falls"
+			"text": "Killiyur Falls",
+			"para":"Kiliyur Falls is a waterfall in the Shervaroyan hill range in the Eastern Ghats, Tamil nadu, India"
 		},
 		{
 			"img": "images/yercaud/garden.jpg",
-			"text": "Botanical Garden"
+			"text": "Botanical Garden",
+			"para":"Maintained by southern circle of Botanical Survey of India, Botanical Garden is one of the top attractions in Yercaud. Housing various exotic species of flowers and plants, the Botanical Garden is a major places to visit in Yercaud."
+			
 		},
 		{
 			"img": "images/yercaud/deerpark.jpg",
-			"text": "Deer Park"
+			"text": "Deer Park",
+			"para":"Lush lakefront park with animals such as deer, peacocks & ducks, plus a play area for kids."
 		},
 		{
 			"img": "images/yercaud/shevory.jpg",
-			"text": "Shevaory Falls"
+			"text": "Shevaory Falls",
+			"para":"The Servarayan hills, with the anglicised name Shevaroy Hills, are a towering mountain range near the city of Salem"
 		},
 		{
 			"img": "images/yercaud/park.jpg",
-			"text": "Anna Park"
+			"text": "Anna Park",
+			"para":"Public green space offering lake views, plants & flowers, a children's play area & picnic spots."
 		},
 		{
 			"img": "images/yercaud/boathouse.jpg",
-			"text": "Boat House"
+			"text": "Boat House",
+			"para":"Peaceful lake surrounded by lush green mountains featuring paddle boat rentals & an annual festival."
 		}
 	]
 }

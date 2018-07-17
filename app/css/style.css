@@ -72,7 +72,17 @@
 } */
 
 
+/*Footer Class*/
+.footerClass h4{
+   color:#fff; 
+   padding-left: 5%;
 
-
+}
+.footerClass:hover{
+    color:red;
+}
+footer{
+    background: #222;
+}
 
  

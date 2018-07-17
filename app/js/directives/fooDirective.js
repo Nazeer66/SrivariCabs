@@ -1,5 +1,10 @@
 app.directive('myfooDirective', function(){
     return{
-        templateUrl:"views/footer.html"
+        scope:true,
+        templateUrl:"views/footer.html",
+        link: function(scope, element, attributes){
+            element.addClass('footerClass');
+        }
+
     }
 })

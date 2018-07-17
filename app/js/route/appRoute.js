@@ -32,7 +32,8 @@ app.config(function($routeProvider){
     })
     .when("/yercaud",{
         templateUrl:"views/innerView/yercaud.html",
-        controller:"yerCtrl"
+        controller:"yerCtrl",
+        css: "css/yercaudStyle.css"
     })
     .when("/valparai",{
         templateUrl:"views/innerView/valparai.html",

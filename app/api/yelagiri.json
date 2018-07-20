@@ -1,0 +1,35 @@
+{
+	"data": [{
+			"img": "images/yelagiri/park.jpg",
+			"text": "Nature park",
+			"para":"The nature park contains a children's park, a musical fountain, an aquarium, a seasonal garden, a bamboo house, a poly house to name a few attractions."
+		},
+		{
+			"img": "images/yelagiri/view.jpg",
+			"text": "Yelagiri view point",
+			"para":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+			
+		},
+		{
+			"img": "images/yelagiri/jagalamparai.jpg",
+			"text": "Jagalamparai Falls",
+			"para":"It’s a seasonal Waterfalls. The drive to the falls is pleasant and wonderful with all kinds of agricultural plants and trees.It was amazing."
+		},
+		{
+			"img": "images/yelagiri/boathouse.jpg",
+			"text": "Yelagiri Boat House",
+			"para":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+		},
+		{
+			"img": "images/yelagiri/garden.jpg",
+			"text": "Yelagiri Botanical Garden",
+			"para":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        },
+        {
+			"img": "images/yercaud/shevory.jpg",
+			"text": "Lorem Ipsum",
+			"para":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+		}
+		
+	]
+}

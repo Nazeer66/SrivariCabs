@@ -1,1 +1,21 @@
-<h1>yelagiri Tourism</h1>
+<div class="container-fluid">
+    <h2 class="myHead">Yelagiri Tourist Places</h2>
+    <div class="row">
+      <div class="col">
+          <div class="row">
+              <div class="col-lg-4" ng-repeat="data in yelagiriData">
+                    <div class="thumbnail">
+                        <img src={{data.img}} alt="Lights" style="width:100%">
+                            <div class="overlay">
+                                <div class="text">
+                                    <h3>{{data.text}}</h3>  
+                                    <p>{{data.para}}</p>
+                                </div>
+                            </div>
+                    </div>
+              </div>
+          </div>
+        
+      </div>
+  </div>
+</div>

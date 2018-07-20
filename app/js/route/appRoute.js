@@ -28,7 +28,8 @@ app.config(function($routeProvider){
     })
     .when("/yelagiri",{
         templateUrl:"views/innerView/yelagiri.html",
-        controller:"myCtrl"
+        controller:"yerCtrl",
+        css: "css/yercaudStyle.css"
     })
     .when("/yercaud",{
         templateUrl:"views/innerView/yercaud.html",
